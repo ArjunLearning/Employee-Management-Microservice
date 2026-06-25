@@ -11,7 +11,7 @@ employees = [
 def home():
     return jsonify({
         "message": "Employee Management API",
-        "status": "Running"
+        "status": "Running from GitHub Actions"
     })
 
 @app.route("/health")
