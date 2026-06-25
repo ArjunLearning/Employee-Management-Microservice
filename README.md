@@ -121,64 +121,53 @@ The application is automatically deployed on an AWS EC2 instance through GitHub 
 
 ## ## 📸 Screenshots
 
-### 1. VS Code CI/CD Workflow
-
+### 1. VS Code Project Structure & GitHub Actions Workflow
 ![VS Code Workflow](Screenshots/01-vscode-cicd-workflow.png)
 
 ---
 
-### 2. GitHub Actions Success
-
+### 2. GitHub Actions Pipeline Success
 ![GitHub Actions](Screenshots/02-github-actions-success.png)
 
 ---
 
-### 3. Amazon ECR Repository
-
+### 3. Amazon ECR Repository Created
 ![Amazon ECR](Screenshots/03-amazon-ecr-repository.png)
 
 ---
 
-### 4. ECR Image Push
-
-![ECR Push](Screenshots/04-ecr-image-pushed.png)
+### 4. Docker Image Successfully Pushed to ECR
+![Docker Push](Screenshots/04-ecr-image-push.png)
 
 ---
 
 ### 5. EC2 Instance Running
-
-![EC2](Screenshots/05-ec2-instance-running.png)
+![EC2 Instance](Screenshots/05-ec2-instance-running.png)
 
 ---
 
-### 6. Security Group Rules
-
+### 6. Security Group Configuration
 ![Security Group](Screenshots/06-security-group-rules.png)
 
 ---
 
-### 7. Docker Push
-
-![Docker Push](Screenshots/07-docker-push-terminal.png)
-
----
-
-### 8. Docker Container Running
-
-![Docker Container](Screenshots/08-ec2-docker-container.png)
+### 7. Docker Image Push Command
+![Docker Push Terminal](Screenshots/07-docker-push.png)
 
 ---
 
-### 9. Live API Response
-
-![Live API](Screenshots/09-live-api-response.png)
+### 8. Docker Container Running on EC2
+![Docker Container](Screenshots/08-docker-container-running.png)
 
 ---
 
-### 10. Final CI/CD Deployment
+### 9. Live Application Running
+![Live Application](Screenshots/09-live-api-response.png)
 
-![Final CI/CD](Screenshots/10-final-cicd-success.png)
+---
 
+### 10. Final CI/CD Deployment Verification
+![Final Deployment](Screenshots/10-final-cicd-success.png)
 ---
 
 ## 👨‍💻 Author
