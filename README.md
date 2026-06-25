@@ -177,6 +177,7 @@ The application is automatically deployed on an AWS EC2 instance through GitHub 
 ### 10. Final CI/CD Deployment
 
 ![Final CI/CD](Screenshots/10-final-cicd-success.png)
+
 ## 👨‍💻 Author
 
 **Arjun Singh**
